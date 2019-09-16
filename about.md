@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Kyle Harlow is a first year Ph.D. candidate studying under Dr. Christoffer Heckman in the [ARPG](https://arpg.github.io) lab. His primary interests are in real time robotic perception and control algorithms. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Kyle previously earned a B.S. in Applied Mathematics in 2017, and a B.S./M.S. in Electrical Engineering with a focus on controls engineering in 2019. Both majors were earned at the univserity of Colorado - Boulder. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Outside of school Kyle enjoys music, lifting weights, anime, and working on cars. 
