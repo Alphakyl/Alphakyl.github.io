@@ -16,7 +16,7 @@
 title: Kyle Harlow Ph.D. Candidate Site
 email: kyle.harlow@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Kyle Harlow is a Ph.D. Student studying under Dr. Christoffer Heckman in the ARPG lab. His primary interests are in high speed robotic perception and control.
+  Kyle Harlow is a Ph.D. Student studying under Dr. Christoffer Heckman in the ARPG lab. His primary interests are in robotic localization and mapping in difficult environments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Alphakyl
